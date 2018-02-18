@@ -1,7 +1,4 @@
-# nthcolumn.github.io
-nthcolumn github page
-
-Text of the indictment as part of the Mueller Investigation in POTUS et al.
+# Text of the indictment as part of the Mueller Investigation in POTUS et al.
 
 Case 1:18-cr-00032-DLF Document 1 Filed 02/16/18 Page 1 of 37
 
